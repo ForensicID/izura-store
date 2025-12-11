@@ -23,7 +23,7 @@ Tujuan utama proyek ini adalah:
 ## 🌐 Live Demo
 
 Lihat website yang sudah online di sini:
-👉 **[https://forensicid.github.io/ran.izura/index.html](https://forensicid.github.io/ran.izura/index.html)**
+👉 **[https://forensicid.github.io/izura-store/index.html](https://forensicid.github.io/izura-store/index.html)**
 
 ---
 
